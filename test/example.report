@@ -1,0 +1,65 @@
+=================================== January ====================================
+DATE       S OPERATION                                         AMOUNT      CUMUL
+2015/01/01 * SoldeInitial                                    +2889.59   +2889.59
+2015/01/02 * Alimentaire:Courses                               -71.57   +2818.02
+2015/01/02 * Epargne                                          -200.00   +2618.02
+2015/01/03 * Services:Téléphone                                -12.00   +2606.02
+2015/01/03 * Alimentaire:Cantine                               -30.00   +2576.02
+
+2015/01/05 * FraisBanquaires:Cotisation                        -11.00   +2565.02
+2015/01/06 * Logement:Loyer                                  -1089.75   +1475.27
+2015/01/06 * Voiture:Assurance                                 -60.68   +1414.59
+2015/01/06 * Allocation:CAF                                   +184.62   +1599.21
+2015/01/06 * Alimentaire:Courses                               -33.32   +1565.89
+
+2015/01/06 * Alimentaire:Courses                               -76.10   +1489.79
+2015/01/07 * Monnaie                                           -20.00   +1469.79
+2015/01/10 * Voiture:Carburant                                 -74.24   +1395.55
+2015/01/14 * Dons:Cadeaux (Anniversaire Carole)                -49.46   +1346.09
+2015/01/14 * Dons:Association                                 -100.00   +1246.09
+
+2015/01/14 * Entretien:Coiffeur                                -40.00   +1206.09
+2015/01/15 * Alimentaire:RestaurationRapide                     -4.30   +1201.79
+2015/01/15 * Alimentaire:Courses                               -50.35   +1151.44
+2015/01/16 * Impots:Revenus                                   -223.00    +928.44
+2015/01/16 * Impots:TaxeHabitation                             -90.00    +838.44
+
+2015/01/16 * Entretien:Habits (chaussures)                     -40.99    +797.45
+2015/01/17 * Services:EDF                                      -97.95    +699.50
+2015/01/17 * Transports:Metro/RER                               -6.90    +692.60
+2015/01/20 * Services:Internet                                 -46.39    +646.21
+2015/01/20 * Dons:Association (April)                          -10.00    +636.21
+
+2015/01/21 * Alimentaire:Cantine                               -30.00    +606.21
+2015/01/22 * Loisirs:Restaurant (MacDO)                         -6.70    +599.51
+2015/01/23 * Voiture:Carburant                                 -62.75    +536.76
+2015/01/27 * Salaire:Bob                                     +2148.88   +2685.64
+2015/01/29 * Salaire:Alice                                   +1467.15   +4152.79
+
+
+=================================== February ===================================
+DATE       S OPERATION                                         AMOUNT      CUMUL
+2015/02/02 * Alimentaire:Courses                               -71.57   +4081.22
+2015/02/02 * Epargne                                          -200.00   +3881.22
+2015/02/03 * Services:Téléphone                                -12.00   +3869.22
+2015/02/03 * Alimentaire:Cantine                               -30.00   +3839.22
+2015/02/05 * FraisBanquaires:Cotisation                        -11.00   +3828.22
+
+2015/02/06 * Logement:Loyer                                  -1089.75   +2738.47
+2015/02/06 * Voiture:Assurance                                 -60.68   +2677.79
+2015/02/06 * Allocation:CAF                                   +184.62   +2862.41
+2015/02/06 * Alimentaire:Courses                               -33.32   +2829.09
+2015/02/06 * Alimentaire:Courses                               -76.10   +2752.99
+
+2015/02/07 * Monnaie                                           -20.00   +2732.99
+2015/02/10 * Voiture:Carburant                                 -74.24   +2658.75
+2015/02/14 * Dons:Cadeaux (Anniversaire Carole)                -49.46   +2609.29
+2015/02/14 * Dons:Association                                 -100.00   +2509.29
+2015/02/14 * Entretien:Coiffeur                                -40.00   +2469.29
+
+2015/02/15 * Alimentaire:RestaurationRapide                     -4.30   +2464.99
+2015/02/15 * Alimentaire:Courses                               -50.35   +2414.64
+2015/02/16 + Impots:Revenus                                   -223.00   +2191.64
+2015/02/16 + Impots:TaxeHabitation                             -90.00   +2101.64
+2015/02/16   Entretien:Habits (chaussures)                     -40.99   +2060.65
+
