@@ -1,0 +1,27 @@
+package:
+  name: budget
+  version: 0.1.0
+
+source:
+  fn: 0.1.0.tar.gz
+  url: https://github.com/dfroger/budget/archive/0.1.0.tar.gz
+  md5: 6e64eb033bbe40f8e03b3f47faac11ae
+
+build:
+  number: 0
+
+requirements:
+  build:
+    - pip
+    - python
+  run:
+    - python
+
+test:
+  commands:
+    - budget --help
+
+about:
+  home: http://github.com/dfroger/budget
+  license: GPL2
+  summary: Personal budgeting script
