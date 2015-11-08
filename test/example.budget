@@ -22,13 +22,13 @@ Monnaie
 
 2015/01/01 * SoldeInitial                                               +2889.59
 2015/01/02 * Alimentaire:Courses                                          -71.57
-2015/01/02 * Epargne                                                     -200.00
-2015/01/03 * Services:Téléphone                                           -12.00
+2015/01/02 f Epargne                                                     -200.00
+2015/01/03 f Services:Téléphone                                           -12.00
 2015/01/03 * Alimentaire:Cantine                                          -30.00
-2015/01/05 * FraisBanquaires:Cotisation                                   -11.00
-2015/01/06 * Logement:Loyer                                             -1089.75
-2015/01/06 * Voiture:Assurance                                            -60.68
-2015/01/06 * Allocation:CAF                                              +184.62
+2015/01/05 f FraisBanquaires:Cotisation                                   -11.00
+2015/01/06 f Logement:Loyer                                             -1089.75
+2015/01/06 f Voiture:Assurance                                            -60.68
+2015/01/06 f Allocation:CAF                                              +184.62
 2015/01/06 * Alimentaire:Courses                                          -33.32
 2015/01/06 * Alimentaire:Courses                                          -76.10
 2015/01/07 * Monnaie                                                      -20.00
@@ -38,31 +38,31 @@ Monnaie
 2015/01/14 * Entretien:Coiffeur                                           -40.00
 2015/01/15 * Alimentaire:RestaurationRapide                                -4.30
 2015/01/15 * Alimentaire:Courses                                          -50.35
-2015/01/16 * Impots:Revenus                                              -223.00
-2015/01/16 * Impots:TaxeHabitation                                        -90.00
+2015/01/16 f Impots:Revenus                                              -223.00
+2015/01/16 f Impots:TaxeHabitation                                        -90.00
 2015/01/16 * Entretien:Habits (chaussures)                                -40.99
-2015/01/17 * Services:EDF                                                 -97.95
+2015/01/17 f Services:EDF                                                 -97.95
 2015/01/17 * Transports:Metro/RER                                          -6.90
-2015/01/20 * Services:Internet                                            -46.39
-2015/01/20 * Dons:Association (April)                                     -10.00
+2015/01/20 f Services:Internet                                            -46.39
+2015/01/20 f Dons:Association (April)                                     -10.00
 2015/01/21 * Alimentaire:Cantine                                          -30.00
 2015/01/22 * Loisirs:Restaurant (MacDO)                                    -6.70
 2015/01/23 * Voiture:Carburant                                            -62.75
-2015/01/27 * Salaire:Bob                                                +2148.88
-2015/01/29 * Salaire:Alice                                              +1467.15
+2015/01/27 f Salaire:Bob                                                +2148.88
+2015/01/29 f Salaire:Alice                                              +1467.15
 
 #===============================================================================
 # Fevrier
 #===============================================================================
 
 2015/02/02 * Alimentaire:Courses                                          -71.57
-2015/02/02 * Epargne                                                     -200.00
-2015/02/03 * Services:Téléphone                                           -12.00
+2015/02/02 f Epargne                                                     -200.00
+2015/02/03 f Services:Téléphone                                           -12.00
 2015/02/03 * Alimentaire:Cantine                                          -30.00
-2015/02/05 * FraisBanquaires:Cotisation                                   -11.00
-2015/02/06 * Logement:Loyer                                             -1089.75
-2015/02/06 * Voiture:Assurance                                            -60.68
-2015/02/06 * Allocation:CAF                                              +184.62
+2015/02/05 f FraisBanquaires:Cotisation                                   -11.00
+2015/02/06 f Logement:Loyer                                             -1089.75
+2015/02/06 f Voiture:Assurance                                            -60.68
+2015/02/06 f Allocation:CAF                                              +184.62
 2015/02/06 * Alimentaire:Courses                                          -33.32
 2015/02/06 * Alimentaire:Courses                                          -76.10
 2015/02/07 * Monnaie                                                      -20.00
@@ -70,8 +70,8 @@ Monnaie
 2015/02/14 * Dons:Cadeaux (Anniversaire Carole)                           -49.46 
 2015/02/14 * Dons:Association                                            -100.00
 2015/02/14 * Entretien:Coiffeur                                           -40.00
-2015/02/15 * Alimentaire:RestaurationRapide                                -4.30
-2015/02/15 * Alimentaire:Courses                                          -50.35
-2015/02/16 + Impots:Revenus                                              -223.00
-2015/02/16 + Impots:TaxeHabitation                                        -90.00
+2015/02/15 + Alimentaire:RestaurationRapide                                -4.30
+2015/02/15 + Alimentaire:Courses                                          -50.35
+2015/02/16 . Impots:Revenus                                              -223.00
+2015/02/16 . Impots:TaxeHabitation                                        -90.00
 2015/02/16   Entretien:Habits (chaussures)                                -40.99

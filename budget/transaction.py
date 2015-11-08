@@ -6,7 +6,12 @@ import budget
 
 class Transaction:
     date_format = "%Y/%m/%d"
-    status_dict = {'*': 'validated', '+': 'payed'}
+    status_dict = {
+        '*': 'validated',
+        '+': 'payed',
+        '.': 'fixed',
+        'f': 'validated-fixed',
+    }
 
     def __init__(self, date, status, category, amount,
                  comments=None, line_idx=None):

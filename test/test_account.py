@@ -69,7 +69,9 @@ class TestAccount(unittest.TestCase):
                                category_definitions, transactions)
 
     def test_make_report(self):
-        expected_report = open(os.path.join(here, 'example.report')).read()
+        self.maxDiff = None
+        with open(os.path.join(here, 'example.report')) as f:
+            expected_report = f.read()
         b = budget.Account.from_file(self.filepath)
         report = b.make_report()
         with open('got', 'w') as f:
